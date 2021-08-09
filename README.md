@@ -1,3 +1,3 @@
-# Skill
+# Start
 
-入门知识整理 ......
+Coding life start.
